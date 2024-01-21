@@ -11,6 +11,9 @@ We collect email addresses through Firebase Authentication for the purpose of us
 Addresses and Contact Details
 We collect physical addresses and contact details for the delivery option in our App. This information is stored securely in Firebase Database.
 
+Dummy Payment Option
+RunAway provides a dummy payment option for testing purposes. Please note that this option is for simulation only, and no real transactions or financial information are involved.
+
 Data Security
 We are committed to ensuring that your information is secure. To prevent unauthorized access or disclosure, we have implemented suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect.
 
